@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ברוכים הבאים לעולם המשחקים המרגש ביותר! אצלנו תמצא את הקטלוג המלא של משחקים מובילים, חוויות בלתי נשכחות וכיף אמיתי לכל הגילאים. היכנס עכשיו וגלה את הקסם!
+
+### אודות
+https://example.com/about
+רוצה לדעת מי אנחנו ולמה אנחנו הכתובת הטובה ביותר לעולם המשחקים? גלה את החזון, הערכים והצוות המסור שבנה את הקטלוג המושלם עבורך. הכר אותנו לעומק!
+
+### גלריה
+https://example.com/gallery
+הגלריה שלנו היא חלון לעולם שלם של משחקים מרהיבים! עיין בקטלוג התמונות, גלה כותרים חדשים ותן לעיניים שלך ליהנות מהצבעים, העיצובים והחוויות הויזואליות המרתקות ביותר.
+
+### צור קשר
+https://example.com/contact
+יש לך שאלה, הצעה או סתם רוצה לדעת עוד על הקטלוג המלא שלנו? צוות לביא אתר משחקים זמין עבורך בכל עת! צור קשר היום ונחזור אליך במהירות הבזק עם כל התשובות.
+
+### Products
+https://example.com/products
+המוצרים שלנו - לביא אתר משחקים
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - לביא אתר משחקים
+
+### Category
+https://example.com/category/:slug
+מוצרים - לביא אתר משחקים
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
